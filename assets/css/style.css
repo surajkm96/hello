@@ -1,0 +1,66 @@
+body{
+    background-color: lightpin;
+}
+.container{
+    width: 1215px;
+    height: 100px;
+    background-color: lightgreen;
+}
+.image{
+width: 100px;
+height: 100;
+border-image: round;
+image-rendering: optimizeSpeed;
+cursor: pointer;
+align-items: center;
+
+}
+
+.raj{
+    color: rgb(6, 224, 17);
+    text-underline-position: below;
+    text-align: justify;
+    
+}
+
+
+a{
+    text-align: center;
+    
+}
+.Home{
+    width: 1215px;
+    height: 10px;
+background-color: blueviolet;
+}
+.jo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.Awadhi{
+    background-color: blue;
+    height: 130px;
+    width: 1215px;
+    color:white;
+    text-size-adjust: 10px;
+}
+.ankit{
+    height: 400px;
+    width: 300px;
+    float: inline-end;
+    float: top;
+}
+
+.Awadhi-Film{
+    background-color: rgb(67, 12, 150);
+    height: 110px;
+    width: 1215px;
+    color:white;
+    text-size-adjust: 10px;
+}
+.Akash{
+    height: 400px;
+    width: 300px;
+    float: inline-end;
+    float:top;
+}
